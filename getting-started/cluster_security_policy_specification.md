@@ -16,6 +16,8 @@ spec:
   tags: ["tag", ...]                       # --> optional
   message: [message]                       # --> optional
 
+
+
   selector:
     matchExpressions:
       - key: [namespace]
